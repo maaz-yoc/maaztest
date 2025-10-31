@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Pages Deployment Helper",
+  "description": "An application that generates a step-by-step guide for deploying a React Vite project to GitHub Pages using the Gemini API.",
+  "requestFramePermissions": []
+}
